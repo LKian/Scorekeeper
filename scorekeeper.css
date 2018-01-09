@@ -1,0 +1,38 @@
+* {
+	font-family: arial;
+}
+	.winner {
+	color: green; }
+
+input {
+	display: block; 
+	border-radius: 5px;
+	padding: 5px;
+	outline: none;
+	margin: 10px auto;
+	text-align: right;  }
+button {
+	font-size: 1.1em;
+}
+#p1Button, #p2Button {
+	padding: 5px;
+	border-radius: 5px;
+	background: #000;
+	color: #fff;
+	outline: none;
+}
+#controls {
+	display: inline-block; }
+
+#resetButton {
+	display: block;
+	margin: 10px auto;
+	border-radius: 5px;
+	padding: 5px;
+	background: salmon;
+	color: #fff;
+	text-transform: uppercase; }
+
+body {
+	text-align: center;
+}
